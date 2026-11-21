@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-21",
+  "offline_regression_tests": {
+    "passed": 15,
+    "failed": 0
+  },
+  "cli_help": "passed",
+  "mac_launcher_bash_syntax": "passed",
+  "notebook_code_syntax": "passed",
+  "processed_workbook_rows": {
+    "Sản phẩm": 1130,
+    "Biến thể": 2658
+  },
+  "live_crawl_during_packaging": false
+}

@@ -1,0 +1,29 @@
+{
+  "packaged_date": "2026-11-21",
+  "crawler_version": "2.1",
+  "raw_snapshot": {
+    "status": "incomplete",
+    "updated_at_utc": "2026-11-19T16:21:45.828379+00:00",
+    "products": 1086,
+    "variants": 2533,
+    "known_catalog_products": 1130,
+    "missing_product_ids_count": 44,
+    "failed_collections_count": 15,
+    "full_site_verified": false
+  },
+  "processed_workbook": {
+    "path": "data/processed/em_iu_beautybox_rut_gon.xlsx",
+    "sheet": "Tất cả",
+    "product_rows": 1130,
+    "variant_rows": 2658
+  },
+  "metadata_removed_from_raw_archive": [
+    "__MACOSX/beautybox_browser/._variants.csv",
+    "__MACOSX/beautybox_browser/._products.csv",
+    "beautybox_browser/.DS_Store",
+    "__MACOSX/beautybox_browser/._.DS_Store",
+    "__MACOSX/beautybox_browser/._catalog.json",
+    "__MACOSX/beautybox_browser/collections/._trang-diem-thuan-chay.json"
+  ],
+  "reproducibility_note": "Crawler exports CSV/JSON. Excel enrichment and editorial normalization were performed separately."
+}

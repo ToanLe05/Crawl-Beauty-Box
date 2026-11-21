@@ -1,0 +1,30 @@
+{
+  "version": "2.1",
+  "prepared_date": "2026-11-19",
+  "live_python_cli_check": {
+    "status": "check_passed",
+    "transport": "http",
+    "collection": "https://beautybox.com.vn/collections/top-san-pham",
+    "page_sizes": [
+      40,
+      40,
+      17
+    ],
+    "unique_catalog_products": 97,
+    "exported_products": 2,
+    "exported_variants": 17,
+    "errors": [],
+    "mocked": false
+  },
+  "offline_tests_passed": 15,
+  "checks": {
+    "python_compilation": "passed",
+    "bash_syntax": "passed",
+    "document_offset_verified": true,
+    "duplicate_ids_across_three_pages": 0
+  },
+  "limitations": [
+    "Live check confirms one collection only, not full-site coverage.",
+    "The updated Python code has not yet run on the user Mac."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "checked_date": "2026-11-19",
+  "status": "blocked_before_complete_catalog",
+  "full_dataset_delivered": false,
+  "reason": "HTTP 403; CloudFront: configured to block access from your country",
+  "sitemap_url_count": 59,
+  "sitemap_product_path_count": 1,
+  "notes": "The single /products/ path is dealshocks, not a complete catalog. No old sample is included as current data."
+}
